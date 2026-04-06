@@ -1,0 +1,14 @@
+﻿YHW = {
+	pattern = "pattern_solid.dds"
+	color1 = hsv { 0.78 0.85 0.51 }
+}
+
+yhw_lu_dynasty = {
+	pattern = "pattern_solid.dds"
+	color1 = hsv { 0.78 0.85 0.51 }
+}
+
+YHL = {
+	pattern = "pattern_solid.dds"
+	color1 = hsv { 0.78 0.70 0.63 }
+}

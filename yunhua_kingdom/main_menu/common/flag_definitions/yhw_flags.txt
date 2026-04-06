@@ -1,0 +1,13 @@
+﻿YHW = {
+	flag_definition = {
+		coa = YHW
+		priority = 1
+	}
+}
+
+YHL = {
+	flag_definition = {
+		coa = YHL
+		priority = 1
+	}
+}

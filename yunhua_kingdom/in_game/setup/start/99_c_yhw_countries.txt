@@ -1,0 +1,36 @@
+countries = {
+	countries = {
+		YHW = {
+			type = building
+
+			include = "chinese_monarchy"
+
+			government = {
+				ruler = yhw_yunhua
+				ruler_term = { character = yhw_yunhua start_date = 1337.1.1 regnal_number = 1 }
+				reforms = {
+					banking_country
+				}
+			}
+
+			capital = ketagalan
+			country_rank = rank_county
+		}
+
+		YHL = {
+			own_control_core = {
+				ketagalan
+				basai
+			}
+
+			include = "chinese_monarchy"
+
+			government = {
+				ruler = random
+			}
+
+			capital = ketagalan
+			country_rank = rank_county
+		}
+	}
+}

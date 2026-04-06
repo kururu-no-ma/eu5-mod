@@ -1,0 +1,5 @@
+﻿yhw_territory_pays = {
+	scaled_sailors = 1.0
+	scaled_manpower = 1.0
+	ignore_inflation = yes
+}

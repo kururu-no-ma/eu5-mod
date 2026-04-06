@@ -1,0 +1,11 @@
+yhw_bank_culture = {
+	language = min_language
+	color = hsv { 0.78 0.85 0.51 }
+	tags = { east_asian_gfx }
+	opinions = {
+	}
+	culture_groups = {
+		chinese_group
+		confucian_group
+	}
+}

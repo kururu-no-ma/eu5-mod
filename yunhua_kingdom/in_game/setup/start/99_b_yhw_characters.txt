@@ -1,0 +1,12 @@
+character_db = {
+	yhw_yunhua = {
+		first_name = { name = yhw_name_yunhua }
+		culture = yhw_bank_culture
+		religion = sanjiao
+		adm = 35 dip = 40 mil = 30
+		birth_date = 1314.3.19
+		birth = ketagalan
+		dynasty = yhw_lu_dynasty
+		tag = YHW
+	}
+}
