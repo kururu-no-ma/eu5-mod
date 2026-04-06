@@ -1,0 +1,6 @@
+﻿YHP = {
+	flag_definition = {
+		coa = YHP
+		priority = 1
+	}
+}

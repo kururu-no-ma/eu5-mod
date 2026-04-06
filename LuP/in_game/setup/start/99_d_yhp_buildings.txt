@@ -1,0 +1,3 @@
+building_manager = {
+	pirate_stronghold = { tag = YHP level = 1 location = basai }
+}

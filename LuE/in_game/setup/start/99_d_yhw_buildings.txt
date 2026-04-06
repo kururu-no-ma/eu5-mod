@@ -1,0 +1,3 @@
+building_manager = {
+	banking_office = { tag = YHW level = 1 location = ketagalan }
+}

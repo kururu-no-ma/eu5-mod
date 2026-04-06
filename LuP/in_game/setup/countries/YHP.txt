@@ -1,0 +1,6 @@
+﻿YHP = {
+	color = rgb { 20 20 20 }
+	color2 = rgb { 200 200 200 }
+	culture_definition = minnan_culture
+	religion_definition = sanjiao
+}

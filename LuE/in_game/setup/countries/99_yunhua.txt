@@ -1,0 +1,13 @@
+﻿YHW = {
+	color = rgb { 100 20 130 }
+	color2 = rgb { 180 140 220 }
+	culture_definition = yhw_bank_culture
+	religion_definition = sanjiao
+}
+
+YHL = {
+	color = rgb { 130 50 160 }
+	color2 = rgb { 200 160 240 }
+	culture_definition = minnan_culture
+	religion_definition = sanjiao
+}

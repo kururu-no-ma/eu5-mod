@@ -1,0 +1,12 @@
+character_db = {
+	yhp_yunhua = {
+		first_name = { name = yhp_name_yunhua }
+		culture = minnan_culture
+		religion = sanjiao
+		adm = 35 dip = 40 mil = 30
+		birth_date = 1314.3.19
+		birth = basai
+		dynasty = yhp_lu_dynasty
+		tag = YHP
+	}
+}
